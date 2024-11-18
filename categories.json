@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Телефони",
+    "image": "https://raw.githubusercontent.com/Akemi2005/kyrsova2/main/Phones.png",
+    "alt": "Телефони",
+    "link": "#"
+  },
+  {
+    "name": "Смарт годинники",
+    "image": "https://raw.githubusercontent.com/Akemi2005/kyrsova2/main/Smart%20Watches.png",
+    "alt": "Смарт годинники",
+    "link": "#"
+  },
+  {
+    "name": "Фотокамери",
+    "image": "https://raw.githubusercontent.com/Akemi2005/kyrsova2/main/Cameras.png",
+    "alt": "Фотокамери",
+    "link": "#"
+  },
+  {
+    "name": "Навушники",
+    "image": "https://raw.githubusercontent.com/Akemi2005/kyrsova2/main/Headphones.png",
+    "alt": "Навушники",
+    "link": "#"
+  },
+  {
+    "name": "Комп'ютери",
+    "image": "https://raw.githubusercontent.com/Akemi2005/kyrsova2/main/Computers.png",
+    "alt": "Комп'ютери",
+    "link": "#"
+  },
+  {
+    "name": "Ігри",
+    "image": "https://raw.githubusercontent.com/Akemi2005/kyrsova2/main/Gaming.png",
+    "alt": "Ігри",
+    "link": "#"
+  },
+  {
+    "name": "Годинники",
+    "image": "https://raw.githubusercontent.com/Akemi2005/kyrsova2/main/Smart%20Watches.png",
+    "alt": "годинники",
+    "link": "#"
+  },
+]

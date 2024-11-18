@@ -40,5 +40,17 @@
     "image": "https://raw.githubusercontent.com/Akemi2005/kyrsova2/main/Smart%20Watches.png",
     "alt": "годинники",
     "link": "#"
+  },
+  {
+    "name": "Фотокамери pro",
+    "image": "https://raw.githubusercontent.com/Akemi2005/kyrsova2/main/Cameras.png",
+    "alt": "Фотокамери",
+    "link": "#"
+  },
+    {
+    "name": "Комп'ютери pro",
+    "image": "https://raw.githubusercontent.com/Akemi2005/kyrsova2/main/Computers.png",
+    "alt": "Комп'ютери",
+    "link": "#"
   }
 ]
